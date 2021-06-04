@@ -1,42 +1,42 @@
-#html {
-    font-family: Arial;
-    font-size: 14px;
-    color: black;
-}
-
 .searchBar {
     position: fixed;
-    left: 30%;
-    top: 40%;
+    left: 39%;
+    top: 29%;
     height: 38px;
     width: 550px;
-    border-radius: 25px;
+    border-radius: 20px;
     border-color: silver;
+}
+
+.buttonClass {
+    position: absolute;
+    top: 33%;
+    left: 44%;
 }
 
 .googleLogo {
     position: absolute;
-    left: 40%;
-    top: 25%;
+    left: 45%;
+    top: 20%;
 }
 
 .searchImage {
     position: absolute;
-    left: 31%;
-    top: 42%;
+    left: 40%;
+    top: 30%;
     width: 18px;
 }
 
 .micImage {
     position: absolute;
     width: 15px;
-    left: 66%;
-    top: 42%;
+    left: 59%;
+    top: 30%
 }
 
 ul {
     list-style-type: none;
-    margin: 18px;
+    margin: 17px;
     padding: 0;
     display: inline-flex;
     color: #0000;
